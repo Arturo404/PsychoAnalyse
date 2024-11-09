@@ -1,9 +1,9 @@
 # PsychoAnalyse
 
-This project is a Python-based tool designed to analyze and correct responses from the Israeli psychometric exam, which is an entrance exam for Israeli universities. The tool automates the process of reviewing student answers, offering efficient feedback and grading.
+This project is a Python-based tool designed to analyze and correct answers from the Israeli psychometric exam, which is an entrance exam for Israeli universities. The tool automates the process of reviewing student answers, offering efficient feedback and grading.
 
 ## Features
-- **Automated Correction**: Grades student responses based on predefined answer keys.
+- **Automated Correction**: Grades student answers based on predefined answer keys.
 - **Analysis**: Identifies common mistakes and provides feedback.
 - **Email Integration**: Sends results and corrections via email (using `mail.sh`).
 
